@@ -1,0 +1,18 @@
+{
+    "malicious_ips": [
+        "45.227.253.214",
+        "31.192.45.78",
+        "185.143.223.45",
+        "103.91.206.72",
+        "192.168.1.100",
+        "10.0.0.5"
+    ],
+    "malicious_domains": [
+        "malware-site.com",
+        "phishing-attempt.net",
+        "suspicious-domain.org",
+        "spam-source.com",
+        "chatgpt.com",
+        "test-site.com"
+    ]
+} 
